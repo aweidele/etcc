@@ -71,7 +71,7 @@ function isPermutation($str1,$str2) {
       $str2 = "agbffed";
     ?>
     <section>
-      <h2>Sample 2</h2>
+      <h2>Sample 3</h2>
       <p><strong>String 1: <?php echo $str1; ?></strong></p>
       <p><strong>String 2: <?php echo $str2; ?></strong></p>
       <p><strong>Result:</strong> <?php echo isPermutation($str1,$str2) ? "True" : "False"; ?></p>
@@ -81,7 +81,7 @@ function isPermutation($str1,$str2) {
       $str2 = "cat";
     ?>
     <section>
-      <h2>Sample 2</h2>
+      <h2>Sample 4</h2>
       <p><strong>String 1: <?php echo $str1; ?></strong></p>
       <p><strong>String 2: <?php echo $str2; ?></strong></p>
       <p><strong>Result:</strong> <?php echo isPermutation($str1,$str2) ? "True" : "False"; ?></p>
@@ -91,7 +91,7 @@ function isPermutation($str1,$str2) {
       $str2 = "evil";
     ?>
     <section>
-      <h2>Sample 2</h2>
+      <h2>Sample 5</h2>
       <p><strong>String 1: <?php echo $str1; ?></strong></p>
       <p><strong>String 2: <?php echo $str2; ?></strong></p>
       <p><strong>Result:</strong> <?php echo isPermutation($str1,$str2) ? "True" : "False"; ?></p>
