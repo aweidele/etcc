@@ -1,0 +1,24 @@
+{
+  "name": "etcc",
+  "version": "1.0.0",
+  "description": "Code Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aweidele/etcc.git"
+  },
+  "author": "Aaron Weidele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aweidele/etcc/issues"
+  },
+  "homepage": "https://github.com/aweidele/etcc#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.2.1",
+    "pump": "^1.0.2"
+  }
+}

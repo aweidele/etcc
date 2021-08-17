@@ -14,12 +14,14 @@
 <html>
 <head>
   <title>Elevetated Third Code Challenges</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Open+Sans:wght@300;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
   <header>
     <h1>String contains only one of each character</h1>
-  </header>
-  <main class="main">
     <code>
 <pre>
 function allUnique($str) {
@@ -34,6 +36,8 @@ function allUnique($str) {
 }
 </pre>
     </code>
+  </header>
+  <main class="main">
     <?php $str = "hydropneumatics"; ?>
     <section>
       <h2>Sample 1</h2>
